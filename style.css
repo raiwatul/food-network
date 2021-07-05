@@ -1,5 +1,6 @@
-section{
+.flex{
     display: flex;
+    margin-bottom: 100px;
 }
 span{
     color: darkorange;
@@ -15,7 +16,7 @@ span{
 }
 .half-width img{
     width: 50%;
-    padding-right: 10%;
+    
     
 }
 .button{
@@ -26,3 +27,12 @@ border-radius: 20px;
 color: white;
 font-weight: 400;
 }
+.back-ground{
+    
+    background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
+ background-size: cover;   
+}
+#sec3{
+    text-align: center;
+}
+
