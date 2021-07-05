@@ -35,4 +35,12 @@ font-weight: 400;
 #sec3{
     text-align: center;
 }
-
+.r-width{
+    width: 30%;
+}
+footer{
+    margin: 50px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
