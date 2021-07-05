@@ -1,0 +1,27 @@
+section{
+    display: flex;
+}
+span{
+    color: darkorange;
+}
+
+.font{
+    font-family: 'Poppins', sans-serif;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    
+}
+.half-width img{
+    
+    
+}
+.button{
+text-decoration: none;
+background-image: linear-gradient(tomato , rgb(228, 153, 40));
+padding: 10px 20px;
+border-radius: 2px;
+color: white;
+font-weight: 400;
+}
