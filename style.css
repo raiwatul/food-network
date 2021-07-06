@@ -38,12 +38,7 @@ font-weight: 400;
 .r-width{
     margin: 20rem 20rem 20rem 20rem;
 }
-footer{
-    margin: 50px;
-    text-align: center;
-    background-color: black;
-    color: blanchedalmond;
-}
+
 .h-width img{
  width: 50%;
  margin-left: 20%;
@@ -53,16 +48,25 @@ footer{
     padding: 5rem 5rem 0rem 5rem;
 
 }
-.thirty-width{
-    width: 25%;
+.box{
+    width: 100%;
 
     box-shadow:5px 5px 20px gray;
    
     padding: 2%;
     border-radius: 20px;
     
-    margin-left: 50px;
+    margin-left: 20px;
 
+
+}
+.small-shadow{
+    width: 90%;
+
+    box-shadow:5px 5px 20px gray;
+   border-radius: 20px;
+   margin-left: 80px;
+   
 
 }
 .image-cut img{
@@ -71,4 +75,11 @@ footer{
     border-radius: 20px;
     object-fit: cover;
 
+}
+footer{
+    margin-bottom: 20px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
 }
