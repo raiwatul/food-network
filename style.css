@@ -36,11 +36,39 @@ font-weight: 400;
     text-align: center;
 }
 .r-width{
-    width: 30%;
+    margin: 20rem 20rem 20rem 20rem;
 }
 footer{
     margin: 50px;
     text-align: center;
     background-color: black;
     color: blanchedalmond;
+}
+.h-width img{
+ width: 50%;
+ margin-left: 20%;
+
+}
+.h-width{
+    padding: 5rem 5rem 0rem 5rem;
+
+}
+.thirty-width{
+    width: 25%;
+
+    box-shadow:5px 5px 20px gray;
+   
+    padding: 2%;
+    border-radius: 20px;
+    
+    margin-left: 50px;
+
+
+}
+.image-cut img{
+    width: 100%; 
+    justify-content: center;
+    border-radius: 20px;
+    object-fit: cover;
+
 }
